@@ -3,6 +3,7 @@ import Header from 'home/Header';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
+import 'remixicon/fonts/remixicon.css';
 import PDPContent from './PDPContent';
 import './index.scss';
 
